@@ -16,14 +16,14 @@ public class MemoryCustomerRepository implements CustomerRepository {
     public void addClient(Customer customer) {
         String methodName = new Throwable().getStackTrace()[0].getMethodName();
         customerList.add(customer);
-        fileCustomerLogger.log(methodName + " " + customer.getId());
+        fileCustomerLogger.log(methodName + "::ID::" + customer + "::added");
     }
 
     @Override
     public void removeClient(Customer customer) {
         String methodName = new Throwable().getStackTrace()[0].getMethodName();
         customerList.remove(customer);
-        fileCustomerLogger.log(methodName + " ID: " + customer + " removed.");
+        fileCustomerLogger.log(methodName + "::ID::" + customer + "::removed.");
 
     }
 
