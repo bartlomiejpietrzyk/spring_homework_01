@@ -1,0 +1,27 @@
+
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::addClient 1::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::addClient 2::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::addClient 3::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::removeClient ID: Customer: ID: 2, Kajtek Olejura. removed.::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::addClient 4::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 00:17:35 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::addClient 1::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::addClient 2::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::addClient 3::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::removeClient ID: Customer: ID: 2, Kajtek Olejura. removed.::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::addClient 4::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
+Thu Jul 04 07:57:06 CEST 2019::Logger::operation::method::getList::executed::in::pl.coderslab.Homework_01.FileCustomerLogger
